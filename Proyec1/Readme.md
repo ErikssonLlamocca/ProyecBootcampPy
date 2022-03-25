@@ -1,2 +1,0 @@
-Mi segundo proyecto
-😎😎😎😊👍
