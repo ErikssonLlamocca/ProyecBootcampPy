@@ -5,8 +5,7 @@ import numpy as np
 st.title('Reporte ejemplo cambio')
 
 DATE_COLUMN = 'date/time'
-DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
-            'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
+DATA_URL = ("C:/Users/ERIKSSON/Downloads/population_total.csv")
 
 
 @st.cache
