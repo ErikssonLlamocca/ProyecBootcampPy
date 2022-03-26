@@ -5,7 +5,7 @@ import numpy as np
 st.title('Reporte ejemplo cambio')
 
 DATE_COLUMN = 'date/time'
-DATA_URL = ("C:/Users/ERIKSSON/Downloads/population_total.csv")
+DATA_URL = ("C:/Users/ERIKSSON/Documents/APROYECTOS/ProyecBootcampPy/data/Gestantes Lima Sur.csv")
 
 
 @st.cache
