@@ -1,4 +1,4 @@
-# ProyecBootcampPy
+# ProyectBootcampPy
 
 Este repositorio contiene el código y los datos utilizados  para el desarrollo del analisis de la database de niños con anemia, realizado con Python realizado en el Bootcamp de Hackspace 2022.
 
