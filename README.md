@@ -1,11 +1,11 @@
 # ProyectBootcampPy
 
-Este repositorio contiene el código y los datos utilizados  para el desarrollo del analisis de la database de niños con anemia, realizado con Python realizado en el Bootcamp de Hackspace 2022.
+Este repositorio contiene el código y los datos utilizados  para el desarrollo del analisis de la database de niños con anemia, esta desarrolado con Python  y realizado en el Bootcamp de Hackspace 2022.
 
 <<<"Sabias que Algunas de las consecuencias inmediatas de la anemia son el retraso en el crecimiento, la respuesta inmunológica disminuida, regulación de la temperatura alterada ; algunos signos y síntomas como fatiga, debilidad y palidez ; así como irritabilidad y déficit de atención. La presencia de anemia en los menores de dos años tiene un efecto no solo en el desarrollo psicomotor, sino que sus consecuencias pueden manifestarse a lo largo del ciclo de vida.">>>
 
-Actividades Realizadas/ Pendientes
-El estado de este repositorio esta aun en progreso... Tenemos las siguientes actividades pendientes:
+Actividades Realizadas
+    El estado de este repositorio esta aun en progreso... 
 
 Hoja de Ruta
 
